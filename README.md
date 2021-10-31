@@ -1,4 +1,60 @@
-# Getting Started with Create React App
+# ID
+A simple react based project for a Malay Travels Agency
+
+
+# Project Description
+- Get the best tour package with affordable price
+
+- Site created with simple React Js and React-Bootstrap
+
+-  Google Login System
+
+- Login to navigate more detailed routes
+
+- Hosted on Firebase
+
+- MongoDB Atlast Used Database
+
+- NOSQL database
+
+- DataBase Hosted on Heroku
+
+
+
+
+
+## Live Site Link
+
+https://my-tour-frontend.web.app/home
+
+## Live Database Link
+
+https://haunted-hollow-87054.herokuapp.com/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +123,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `yarn build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
