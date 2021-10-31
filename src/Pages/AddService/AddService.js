@@ -1,9 +1,12 @@
 import axios from 'axios';
 import React from 'react';
 import { useForm } from 'react-hook-form';
+import { useHistory } from 'react-router';
 import './AddService.css';
 const AddService = () => {
     const { register, handleSubmit, reset } = useForm();
+    const history = useHistory();
+    const redirect_uri = '/home'
     const onSubmit = data => {
 
         console.log(data);
@@ -11,6 +14,7 @@ const AddService = () => {
             .then(res => {
                 if (res.data.insertedId) {
                     alert('added successfully');
+                    history.push(redirect_uri);
                     reset();
                 }
             })
